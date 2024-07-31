@@ -8,6 +8,7 @@ The School Management System is a comprehensive application built with the MERN 
 - **Teachers**: Handle class management, attendance, and grades.
 - **Students**: View schedules, attendance, and results.
 
+<img src="./project.png" alt="Alt text" width="100" height="100">
 ## Features
 
 - **Admin Panel**:
@@ -26,8 +27,8 @@ The School Management System is a comprehensive application built with the MERN 
   - Track attendance
   - Check results
 
-## Installation
+ **Clone the repository**:
+   ```bash
+   git clone <https://github.com/sujoyghoshal/School-Management-System.git>
 
-To run this project locally, follow these steps:
 
-![Alt text](./project.png)
