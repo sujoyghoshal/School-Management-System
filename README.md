@@ -30,12 +30,4 @@ The School Management System is a comprehensive application built with the MERN 
 
 To run this project locally, follow these steps:
 
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
-
-- Replace `<repository-url>` with the actual URL of your repository.
-- Update `./project.png` with the actual path to the image of your project's home page.
-- Update the email address in the contact section with your actual email.
-
-Feel free to modify and expand the `README.md` as needed for your project!
+![Alt text](./project.png)
