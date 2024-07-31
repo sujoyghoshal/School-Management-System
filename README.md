@@ -8,7 +8,7 @@ The School Management System is a comprehensive application built with the MERN 
 - **Teachers**: Handle class management, attendance, and grades.
 - **Students**: View schedules, attendance, and results.
 
-<img src="./project.png" alt="Alt text" width="100" height="100">
+<img src="./project.png" alt="Alt text" width="500" height="500">
 ## Features
 
 - **Admin Panel**:
