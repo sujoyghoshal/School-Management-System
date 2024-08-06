@@ -29,6 +29,6 @@ The School Management System is a comprehensive application built with the MERN 
 
  **Clone the repository**:
    ```bash
-   git clone <https://github.com/sujoyghoshal/School-Management-System.git>
+   git clone <https://github.com/sujoyghoshal/School-Management-System.git> 
 
 
